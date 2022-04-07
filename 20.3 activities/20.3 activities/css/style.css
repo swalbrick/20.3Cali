@@ -11,6 +11,13 @@ body {
     background-position:center;
     height: 75vh;
 }
+#hero1 {
+    background-image: url("../images/hero1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+    height: 75vh;
+}
 
 .nav-link.active {
     font-weight: 800;
@@ -120,7 +127,7 @@ h4 {
 
 #locations {
     padding:200px 0px 100px;
-    background-image:url("../images/hollywood.png");
+    background-image:url("../images/beverlyhills.png");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -144,6 +151,24 @@ h4 {
 }
 .sanfran {
     background-image: url(../images/sf-background.png);  
+}
+.hollywoodsign{
+    background-image: url(../images/Hollywood_Sign.jpg);
+}
+.starwalk{
+    background-image: url(../images/starwalk.jpg); 
+}
+.disney{
+    background-image: url(../images/disneyland.jpg);
+}
+.goldengate{
+    background-image: url(../images/golden-gate-bridge.jpg.crdownload);
+}
+.rodeo{
+    background-image: url(../images/rodeodrive.jpg);
+}
+.losangeles{
+    background-image: url(../images/losangeles.jpg);
 }
 
 #locations .location-card .card-items {
